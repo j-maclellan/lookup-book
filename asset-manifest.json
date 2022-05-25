@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lookup-book/static/css/main.a13d3d6a.chunk.css",
+    "main.js": "/lookup-book/static/js/main.4606b7c5.chunk.js",
+    "main.js.map": "/lookup-book/static/js/main.4606b7c5.chunk.js.map",
+    "runtime-main.js": "/lookup-book/static/js/runtime-main.c29b51e9.js",
+    "runtime-main.js.map": "/lookup-book/static/js/runtime-main.c29b51e9.js.map",
+    "static/css/2.69121389.chunk.css": "/lookup-book/static/css/2.69121389.chunk.css",
+    "static/js/2.5567bace.chunk.js": "/lookup-book/static/js/2.5567bace.chunk.js",
+    "static/js/2.5567bace.chunk.js.map": "/lookup-book/static/js/2.5567bace.chunk.js.map",
+    "index.html": "/lookup-book/index.html",
+    "precache-manifest.28e463a23cbf4c48a5b098fe023a9fd7.js": "/lookup-book/precache-manifest.28e463a23cbf4c48a5b098fe023a9fd7.js",
+    "service-worker.js": "/lookup-book/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/lookup-book/static/css/2.69121389.chunk.css.map",
+    "static/css/main.a13d3d6a.chunk.css.map": "/lookup-book/static/css/main.a13d3d6a.chunk.css.map",
+    "static/js/2.5567bace.chunk.js.LICENSE.txt": "/lookup-book/static/js/2.5567bace.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c29b51e9.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.5567bace.chunk.js",
+    "static/css/main.a13d3d6a.chunk.css",
+    "static/js/main.4606b7c5.chunk.js"
+  ]
+}
